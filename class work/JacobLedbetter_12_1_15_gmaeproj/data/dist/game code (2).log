@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "game code (2).py", line 284, in <module>
+    quit()
+NameError: name 'quit' is not defined
